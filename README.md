@@ -1,6 +1,6 @@
 # Hi, I'm Jaime 👋
 
-AI/Cloud Engineer focused on LLM agents, RAG systems, and observability tooling across Azure and GCP.
+AI Engineer with a cloud/SRE background — building and operating LLM agents and RAG systems on Azure and GCP.
 
 ## 🔭 Featured projects
 
