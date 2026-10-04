@@ -2,7 +2,7 @@
 
 AI Engineer with 20+ years in cloud architecture and SRE (GCP, Azure, AWS). I build and operate LLM agents, RAG systems and MLOps pipelines.
 
-📍 Relocating to Germany (Nuremberg / Bavaria) · 🇩🇪 learning German (B1, aiming for B2 mid-2027) · open to AI/ML engineering roles
+🌍 Europe-based (CET) · open to remote roles in EU and US time zones · open to AI/ML engineering roles
 
 ## 🔭 Featured projects
 
