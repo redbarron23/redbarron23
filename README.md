@@ -14,7 +14,7 @@ AI Engineer with 20+ years in cloud architecture and SRE (GCP, Azure, AWS). I bu
 
 ## 🛠 Stack
 
-Python · FastAPI · Docker · Terraform · Azure · GCP · AWS · ChromaDB · MLflow · Prefect · Prometheus/Grafana · Claude / OpenAI / Ollama
+Python · FastAPI · Docker · Azure · GCP · ChromaDB · MLflow · Prefect · Prometheus/Grafana · Claude / OpenAI / Ollama
 
 ## 🌱 Currently exploring
 
