@@ -1,18 +1,25 @@
-# Hi, I'm Jaime 👋
+# Hi, I'm James 👋
 
-AI Engineer with a cloud/SRE background — building and operating LLM agents and RAG systems on Azure and GCP.
+AI Engineer with 20+ years in cloud architecture and SRE (GCP, Azure, AWS). I build and operate LLM agents, RAG systems and MLOps pipelines.
+
+📍 Relocating to Germany (Nuremberg / Bavaria) · 🇩🇪 learning German (B1, aiming for B2 mid-2027) · open to AI/ML engineering roles
 
 ## 🔭 Featured projects
 
-- **[obs-agent](https://github.com/redbarron23/obs-agent)** — LLM agent for multi-cloud (Azure/GCP) cost triage: natural-language queries, tool-calling, and an eval harness, with support for Claude, DeepSeek, and local Ollama models.
-- **[rag-observability](https://github.com/redbarron23/rag-observability)** — RAG system for querying multi-cloud observability docs with cited answers, built on Claude/DeepSeek + ChromaDB.
+| Project | What it shows |
+|---|---|
+| [obs-agent](https://github.com/redbarron23/obs-agent) | Tool-calling LLM agent for Azure/GCP cost triage. FastAPI + Docker, CI, deterministic and live evals across Claude, DeepSeek, OpenAI and Ollama |
+| [rag-observability](https://github.com/redbarron23/rag-observability) | RAG with cited answers (ChromaDB), retrieval-level evals |
+| [mlops-finance](https://github.com/redbarron23/mlops-finance) | Full ML lifecycle: MLflow, FastAPI, Prometheus/Grafana, drift detection, automated retrain and promote (Prefect) |
+
+## 🛠 Stack
+
+Python · FastAPI · Docker · Terraform · Azure · GCP · AWS · ChromaDB · MLflow · Prefect · Prometheus/Grafana · Claude / OpenAI / Ollama
 
 ## 🌱 Currently exploring
 
-- Multi-agent architectures and tool-use patterns
-- Cloud cost and observability automation
+Multi-agent architectures, MCP servers, LLM evals and observability
 
 ## 📫 Connect
 
-- LinkedIn: [linkedin.com/in/jhourihane](https://www.linkedin.com/in/jhourihane/)
-- 📍 Boston, MA
+[LinkedIn](https://www.linkedin.com/in/jhourihane/)
