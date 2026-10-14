@@ -8,9 +8,11 @@ AI Engineer with 20+ years in cloud architecture and SRE (GCP, Azure, AWS). I bu
 
 | Project | What it shows |
 |---|---|
-| [obs-agent](https://github.com/redbarron23/obs-agent) | Infers missing cost tags (team / env / cost_center) across Azure and GCP with scikit-learn: 98% correct on a synthetic estate, flags wrong tags, human review UI + REST API, exports az / gcloud / Terraform. Plus a tool-calling cost agent across Claude, OpenAI, DeepSeek and Ollama, with ground-truth evals, CI and Docker |
+| [obs-agent](https://github.com/redbarron23/obs-agent) | FinOps label review for Azure and GCP: infer missing or suspect labels, review ownership evidence, and export auditable change plans. Optional LLM cost chat uses bundled synthetic data |
 | [rag-observability](https://github.com/redbarron23/rag-observability) | RAG with cited answers (ChromaDB), retrieval-level evals |
 | [mlops-finance](https://github.com/redbarron23/mlops-finance) | Full ML lifecycle: MLflow, FastAPI, Prometheus/Grafana, drift detection, automated retrain and promote (Prefect) |
+
+Follow the [open-source roadmap](https://github.com/users/redbarron23/projects/2) for upcoming work and priorities across these projects.
 
 ## 🛠 Stack
 
